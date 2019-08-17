@@ -1,6 +1,6 @@
-# [JAMstack](https://appseed.us/apps/jamstack) 
+# [JAMstack Apps](https://appseed.us/apps/jamstack) 
 
-Open-source apps coded in [JAMstack](https://jamstack.org/) pattern.
+Open-source apps (free & commercial) generated in [JAMstack](https://jamstack.org/) pattern by [AppSeed App Generator](https://appseed.us/app-generator)
 
 <br />
 
@@ -10,25 +10,34 @@ Open-source apps coded in [JAMstack](https://jamstack.org/) pattern.
 
 ## [JAMStack Landed](https://appseed.us/apps/jamstack/html5up-landed)
 
-[HTML5Up JAMStack Landed](https://appseed.us/apps/jamstack/html5up-landed) is an open-source app designed by **HTML5Up** and coded in **JAMstack** pattern
+Open Source app generated in **JAMstack** pattern on top of [HTML5Up Landed](https://html5up.net/landed) design. App links:
 
-![JAMStack Landed - App Screen Shot.](https://github.com/app-generator/static/blob/master/products/html5up-landed.jpg?raw=true)
+- License [CCA 3.0 License](https://html5up.net/license) - inherited from HTML5Up 
+- [JAMStack Landed sources](https://github.com/app-generator/jamstack-landed)
+- [JAMStack Landed demo](https://jamstack-landed.appseed.us/)
+- [Product Info](https://appseed.us/apps/jamstack/html5up-landed)
 
 <br />
 
 ## [JAMStack BigPicture](https://appseed.us/apps/jamstack/html5up-big-picture)
 
-[HTML5Up JAMStack BigPicture](https://appseed.us/apps/jamstack/html5up-big-picture) is an open-source app designed by **HTML5Up** and coded in **JAMstack** pattern
+Open Source app generated in **JAMstack** pattern on top of [HTML5Up BigPicture](https://html5up.net/big-picture) design. App links:
 
-![JAMStack BigPicture - App Screen Shot.](https://github.com/app-generator/static/blob/master/products/html5up-bigpicture.jpg?raw=true)
+- License [CCA 3.0 License](https://html5up.net/license) - inherited from HTML5Up 
+- [JAMStack BigPicture sources](https://github.com/app-generator/jamstack-big-picture)
+- [JAMStack BigPicture demo](https://jamstack-big-picture.appseed.us/)
+- [Product Info](https://appseed.us/apps/jamstack/html5up-big-picture)
 
 <br />
 
 ## [JAMStack Fractal](https://appseed.us/apps/jamstack/html5up-fractal)
 
-[JAMStack Fractal](https://appseed.us/apps/jamstack/html5up-fractal) is an open-source app designed by **HTML5Up** and coded in **JAMstack** pattern
+Open Source app generated in **JAMstack** pattern on top of [HTML5Up Fractal](https://html5up.net/fractal) design. App links:
 
-![HTML5Up JAMStack Fractal - App Screen Shot.](https://github.com/app-generator/static/blob/master/products/html5up-fractal.jpg?raw=true)
+- License [CCA 3.0 License](https://html5up.net/license) - inherited from HTML5Up 
+- [JAMStack Fractal sources](https://github.com/app-generator/jamstack-fractal)
+- [JAMStack BigPicture demo](https://jamstack-fractal.appseed.us/)
+- [Product Info](https://appseed.us/apps/jamstack/html5up-fractal)
 
 <br />
 
