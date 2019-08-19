@@ -10,6 +10,86 @@ Open-source apps (free & commercial) generated in [JAMstack](https://jamstack.or
 
 <br />
 
+## [JAMstack Lens](https://appseed.us/apps/jamstack/jamstack-lens-pixelarity)
+
+Open Source app built in **JAMstack** pattern: [demo](https://jamstack-lens.appseed.us/), [sources](https://github.com/app-generator/jamstack-lens)
+
+![JAMstack Lens - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-lens-intro.gif?raw=true)
+
+<br />
+
+## [JAMstack Hologram](https://appseed.us/apps/jamstack/jamstack-hologram-pixelarity)
+
+Open Source app built in **JAMstack** pattern: [demo](https://jamstack-hologram.appseed.us/), [sources](https://github.com/app-generator/jamstack-hologram)
+
+![JAMstack Hologram - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-hologram-intro.gif?raw=true)
+
+<br />
+
+## [JAMstack Tactile](https://appseed.us/apps/jamstack/jamstack-tactile-pixelarity)
+
+Open Source app built in **JAMstack** pattern: [demo](https://jamstack-tactile.appseed.us/), [sources](https://github.com/app-generator/jamstack-tactile)
+
+![JAMstack tactile - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-tactile-intro.gif?raw=true)
+
+<br />
+
+## [JAMstack Story](https://appseed.us/apps/jamstack/jamstack-story-pixelarity)
+
+Open Source app built in **JAMstack** pattern: [demo](https://jamstack-story.appseed.us/), [sources](https://github.com/app-generator/jamstack-story)
+
+![JAMstack Story - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-story-intro.gif?raw=true)
+
+<br />
+
+## [JAMstack Construct](https://appseed.us/apps/jamstack/jamstack-construct-pixelarity)
+
+Open Source app built in **JAMstack** pattern: [demo](https://jamstack-construct.appseed.us/), [sources](https://github.com/app-generator/jamstack-construct)
+
+![JAMstack Construct - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-construct-intro.gif?raw=true)
+
+<br />
+
+## [JAMstack Drift](https://appseed.us/apps/jamstack/jamstack-drift-pixelarity)
+
+Open Source app built in **JAMstack** pattern: [demo](https://jamstack-drift.appseed.us/), [sources](https://github.com/app-generator/jamstack-drift)
+
+![JAMstack Drift - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-drift-intro.gif?raw=true)
+
+<br />
+
+## [JAMstack Wide Angle](https://appseed.us/apps/jamstack/jamstack-wide-angle-pixelarity)
+
+Open Source app built in **JAMstack** pattern: [demo](https://jamstack-wide-angle.appseed.us/), [sources](https://github.com/app-generator/jamstack-wide-angle)
+
+![JAMstack Wide Angle - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-wide-angle-intro.gif?raw=true)
+
+<br />
+
+## [JAMstack Gravity](https://appseed.us/apps/jamstack/jamstack-gravity-pixelarity)
+
+Open Source app built in **JAMstack** pattern: [demo](https://jamstack-gravity.appseed.us/), [sources](https://github.com/app-generator/jamstack-gravity)
+
+![JAMstack Gravity - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-gravity-intro.gif?raw=true)
+
+<br />
+
+## [JAMstack Optics](https://appseed.us/apps/jamstack/jamstack-optics-pixelarity)
+
+Open Source app built in **JAMstack** pattern: [demo](https://jamstack-optics.appseed.us/), [sources](https://github.com/app-generator/jamstack-optics)
+
+![JAMstack Optics - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-optics-intro.gif?raw=true)
+
+<br />
+
+## [JAMstack Elemental](https://appseed.us/apps/jamstack/jamstack-elemental-pixelarity)
+
+Open Source app built in **JAMstack** pattern: [demo](https://jamstack-elemental.appseed.us/), [sources](https://github.com/app-generator/jamstack-elemental)
+
+![JAMstack Elemental - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-elemental-intro.gif?raw=true)
+
+<br />
+
 ## [JAMstack Hyperbolic](https://appseed.us/apps/jamstack/jamstack-hyperbolic-pixelarity)
 
 Open Source app built in **JAMstack** pattern: [demo](https://jamstack-hyperbolic.appseed.us/), [sources](https://github.com/app-generator/jamstack-hyperbolic)
