@@ -10,13 +10,13 @@ Open-source apps (free & commercial) generated in [JAMstack](https://jamstack.or
 
 <br />
 
-## [JAMstack Argon Design](https://jamstack-argon-design.appseed.us)
+## [JAMstack Argon Design](https://appseed.us/apps/jamstack/jamstack-argon-design)
 
 **MIT License** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-argon-design.appseed.us/), [sources](https://github.com/app-generator/jamstack-argon-design)
 
 ![JAMstack Argon Design - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-argon-design-intro.gif?raw=true)
 
-## [JAMstack Material Kit](https://jamstack-material-kit.appseed.us)
+## [JAMstack Material Kit](https://appseed.us/apps/jamstack/jamstack-material-kit)
 
 **MIT License** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-material-kit.appseed.us/), [sources](https://github.com/app-generator/jamstack-material-kit)
 
@@ -24,7 +24,7 @@ Open-source apps (free & commercial) generated in [JAMstack](https://jamstack.or
 
 <br />
 
-## [JAMstack Now UI](https://jamstack-now-ui-kit.appseed.us)
+## [JAMstack Now UI](https://appseed.us/apps/jamstack/jamstack-now-ui-kit)
 
 **MIT License** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-now-ui-kit.appseed.us/), [sources](https://github.com/app-generator/jamstack-now-ui-kit)
 
@@ -32,7 +32,7 @@ Open-source apps (free & commercial) generated in [JAMstack](https://jamstack.or
 
 <br />
 
-## [JAMstack Paper Kit](https://jamstack-paper-kit.appseed.us)
+## [JAMstack Paper Kit](https://appseed.us/apps/jamstack/jamstack-paper-kit)
 
 **MIT License** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-paper-kit.appseed.us/), [sources](https://github.com/app-generator/jamstack-paper-kit)
 
