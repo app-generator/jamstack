@@ -10,6 +10,86 @@ Open-source apps (free & commercial) generated in [JAMstack](https://jamstack.or
 
 <br />
 
+## [JAMstack Hyperbolic](https://appseed.us/apps/jamstack/jamstack-hyperbolic-pixelarity)
+
+Open Source app built in **JAMstack** pattern: [demo](https://jamstack-hyperbolic.appseed.us/), [sources](https://github.com/app-generator/jamstack-hyperbolic)
+
+![JAMstack Hyperbolic - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-hyperbolic-intro.gif?raw=true)
+
+<br />
+
+## [JAMstack Indivisible](https://appseed.us/apps/jamstack/jamstack-indivisible-pixelarity)
+
+Open Source app built in **JAMstack** pattern: [demo](https://jamstack-indivisible.appseed.us/), [sources](https://github.com/app-generator/jamstack-indivisible)
+
+![JAMstack Indivisible - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-indivisible-intro.gif?raw=true)
+
+<br />
+
+## [JAMstack Inverse](https://appseed.us/apps/jamstack/jamstack-inverse-pixelarity)
+
+Open Source app built in **JAMstack** pattern: [demo](https://jamstack-inverse.appseed.us/), [sources](https://github.com/app-generator/jamstack-inverse)
+
+![JAMstack Inverse - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-inverse-intro.gif?raw=true)
+
+<br />
+
+## [JAMstack Landscape](https://appseed.us/apps/jamstack/jamstack-landscape-pixelarity)
+
+Open Source app built in **JAMstack** pattern: [demo](https://jamstack-landscape.appseed.us/), [sources](https://github.com/app-generator/jamstack-landscape)
+
+![JAMstack Landscape - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-landscape-intro.gif?raw=true)
+
+<br />
+
+## [JAMstack Locus](https://appseed.us/apps/jamstack/jamstack-locus-pixelarity)
+
+Open Source app built in **JAMstack** pattern: [demo](https://jamstack-locus.appseed.us/), [sources](https://github.com/app-generator/jamstack-locus)
+
+![JAMstack Locus - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-locus-intro.gif?raw=true)
+
+<br />
+
+## [JAMstack Prototype](https://appseed.us/apps/jamstack/jamstack-prototype-pixelarity)
+
+Open Source app built in **JAMstack** pattern: [demo](https://jamstack-prototype.appseed.us/), [sources](https://github.com/app-generator/jamstack-prototype)
+
+![JAMstack Prototype - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-prototype-intro.gif?raw=true)
+
+<br />
+
+## [JAMstack Reflex](https://appseed.us/apps/jamstack/jamstack-reflex-pixelarity)
+
+Open Source app built in **JAMstack** pattern: [demo](https://jamstack-reflex.appseed.us/), [sources](https://github.com/app-generator/jamstack-reflex)
+
+![JAMstack Reflex - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-reflex-intro.gif?raw=true)
+
+<br />
+
+## [JAMstack - Relativity](https://appseed.us/apps/jamstack/jamstack-relativity-pixelarity)
+
+Open Source app built in **JAMstack** pattern: [demo](https://jamstack-relativity.appseed.us/), [sources](https://github.com/app-generator/jamstack-relativity)
+
+![JAMstack Relativity - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-relativity-intro.gif?raw=true)
+
+<br />
+
+## [JAMstack Split-Screen](https://appseed.us/apps/jamstack/jamstack-split-screen-pixelarity)
+
+Open Source app built in **JAMstack** pattern: [demo](https://jamstack-split-screen.appseed.us/), [sources](https://github.com/app-generator/jamstack-split-screen)
+
+![JAMstack Split-screen - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-split-screen-intro.gif?raw=true)
+
+<br />
+
+## [JAMstack Visualize](https://appseed.us/apps/jamstack/jamstack-visualize-pixelarity)
+
+Open Source app built in **JAMstack** pattern: [demo](https://jamstack-visualize.appseed.us/), [sources](https://github.com/app-generator/jamstack-visualize)
+
+![JAMstack Visualize - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-visualize-intro.gif?raw=true)
+
+<br />
+
 ## [JAMstack Argon Design](https://jamstack-argon-design.appseed.us)
 
 Open Source app built in **JAMstack** pattern: [demo](https://jamstack-argon-design.appseed.us/), [sources](https://github.com/app-generator/jamstack-argon-design)
