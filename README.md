@@ -12,7 +12,7 @@ Open-source apps (free & commercial) generated in [JAMstack](https://jamstack.or
 
 ## [JAMstack Argon Design](https://appseed.us/apps/jamstack/jamstack-argon-design)
 
-**MIT License** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-argon-design.appseed.us/), [sources](https://github.com/app-generator/jamstack-argon-design)
+**MIT License** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-argon-design.appseed.us/), [sources](https://github.com/app-generator/jamstack-argon-design-system)
 
 ![JAMstack Argon Design - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-argon-design-intro.gif?raw=true)
 
