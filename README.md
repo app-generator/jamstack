@@ -352,13 +352,5 @@ Open-source apps (free & commercial) generated in [JAMstack](https://jamstack.or
 
 <br />
 
-## [JAMstack Optics](https://jamstack-optics.appseed.us/)
-
-**[Commercial License - Rocket Plan](https://appseed.us/pricing)** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-optics.appseed.us/), [sources](https://github.com/app-generator/jamstack-optics)
-
-![JAMstack Optics - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-optics-intro.gif?raw=true)
-
-<br />
-
 --- 
 [JAMstack Apps](https://appseed.us/apps/jamstack) provided by **AppSeed**
