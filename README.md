@@ -336,7 +336,7 @@ Open-source apps (free & commercial) generated in [JAMstack](https://jamstack.or
 
 <br />
 
-## [JAMstack Multiverse](https://jamstack-concentric.appseed.us/)
+## [JAMstack Multiverse](https://jamstack-multiverse.appseed.us/)
 
 **[Commercial License - Rocket Plan](https://appseed.us/pricing)** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-multiverse.appseed.us/), [sources](https://github.com/app-generator/priv-jamstack-multiverse)
 
