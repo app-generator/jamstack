@@ -64,161 +64,121 @@ Open-source apps (free & commercial) generated in [JAMstack](https://jamstack.or
 
 <br />
 
-## [JAMstack Lens](https://appseed.us/apps/jamstack/jamstack-lens-pixelarity)
-
-**[Commercial License - Rocket Plan](https://appseed.us/pricing)** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-lens.appseed.us/), [sources](https://github.com/app-generator/priv-jamstack-lens)
+## [JAMstack Lens](https://jamstack-lens.appseed.us/)
 
 ![JAMstack Lens - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-lens-intro.gif?raw=true)
 
 <br />
 
-## [JAMstack Hologram](https://appseed.us/apps/jamstack/jamstack-hologram-pixelarity)
-
-**[Commercial License - Rocket Plan](https://appseed.us/pricing)** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-hologram.appseed.us/), [sources](https://github.com/app-generator/priv-jamstack-hologram)
+## [JAMstack Hologram](https://jamstack-hologram.appseed.us)
 
 ![JAMstack Hologram - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-hologram-intro.gif?raw=true)
 
 <br />
 
-## [JAMstack Tactile](https://appseed.us/apps/jamstack/jamstack-tactile-pixelarity)
-
-**[Commercial License - Rocket Plan](https://appseed.us/pricing)** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-tactile.appseed.us/), [sources](https://github.com/app-generator/priv-jamstack-tactile)
+## [JAMstack Tactile](https://jamstack-tactile.appseed.us)
 
 ![JAMstack tactile - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-tactile-intro.gif?raw=true)
 
 <br />
 
-## [JAMstack Story](https://appseed.us/apps/jamstack/jamstack-story-pixelarity)
-
-**[Commercial License - Rocket Plan](https://appseed.us/pricing)** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-story.appseed.us/), [sources](https://github.com/app-generator/priv-jamstack-story)
+## [JAMstack Story](https://jamstack-story.appseed.us)
 
 ![JAMstack Story - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-story-intro.gif?raw=true)
 
 <br />
 
-## [JAMstack Construct](https://appseed.us/apps/jamstack/jamstack-construct-pixelarity)
-
-**[Commercial License - Rocket Plan](https://appseed.us/pricing)** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-construct.appseed.us/), [sources](https://github.com/app-generator/priv-jamstack-construct)
+## [JAMstack Construct](https://jamstack-construct.appseed.us/)
 
 ![JAMstack Construct - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-construct-intro.gif?raw=true)
 
 <br />
 
-## [JAMstack Drift](https://appseed.us/apps/jamstack/jamstack-drift-pixelarity)
-
-**[Commercial License - Rocket Plan](https://appseed.us/pricing)** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-drift.appseed.us/), [sources](https://github.com/app-generator/priv-jamstack-drift)
+## [JAMstack Drift](https://jamstack-drift.appseed.us/)
 
 ![JAMstack Drift - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-drift-intro.gif?raw=true)
 
 <br />
 
-## [JAMstack Wide Angle](https://appseed.us/apps/jamstack/jamstack-wide-angle-pixelarity)
-
-**[Commercial License - Rocket Plan](https://appseed.us/pricing)** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-wide-angle.appseed.us/), [sources](https://github.com/app-generator/priv-jamstack-wide-angle)
+## [JAMstack Wide Angle](https://jamstack-wide-angle.appseed.us)
 
 ![JAMstack Wide Angle - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-wide-angle-intro.gif?raw=true)
 
 <br />
 
-## [JAMstack Gravity](https://appseed.us/apps/jamstack/jamstack-gravity-pixelarity)
-
-**[Commercial License - Rocket Plan](https://appseed.us/pricing)** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-gravity.appseed.us/), [sources](https://github.com/app-generator/priv-jamstack-gravity)
+## [JAMstack Gravity](https://jamstack-gravity.appseed.us/)
 
 ![JAMstack Gravity - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-gravity-intro.gif?raw=true)
 
 <br />
 
-## [JAMstack Optics](https://appseed.us/apps/jamstack/jamstack-optics-pixelarity)
-
-**[Commercial License - Rocket Plan](https://appseed.us/pricing)** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-optics.appseed.us/), [sources](https://github.com/app-generator/priv-jamstack-optics)
+## [JAMstack Optics](https://jamstack-optics.appseed.us/)
 
 ![JAMstack Optics - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-optics-intro.gif?raw=true)
 
 <br />
 
-## [JAMstack Elemental](https://appseed.us/apps/jamstack/jamstack-elemental-pixelarity)
-
-**[Commercial License - Rocket Plan](https://appseed.us/pricing)** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-elemental.appseed.us/), [sources](https://github.com/app-generator/priv-jamstack-elemental)
+## [JAMstack Elemental](https://jamstack-elemental.appseed.us/)
 
 ![JAMstack Elemental - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-elemental-intro.gif?raw=true)
 
 <br />
 
-## [JAMstack Hyperbolic](https://appseed.us/apps/jamstack/jamstack-hyperbolic-pixelarity)
-
-**[Commercial License - Rocket Plan](https://appseed.us/pricing)** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-hyperbolic.appseed.us/), [sources](https://github.com/app-generator/priv-jamstack-hyperbolic)
+## [JAMstack Hyperbolic](https://jamstack-hyperbolic.appseed.us/)
 
 ![JAMstack Hyperbolic - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-hyperbolic-intro.gif?raw=true)
 
 <br />
 
-## [JAMstack Indivisible](https://appseed.us/apps/jamstack/jamstack-indivisible-pixelarity)
-
-**[Commercial License - Rocket Plan](https://appseed.us/pricing)** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-indivisible.appseed.us/), [sources](https://github.com/app-generator/priv-jamstack-indivisible)
+## [JAMstack Indivisible](https://jamstack-indivisible.appseed.us)
 
 ![JAMstack Indivisible - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-indivisible-intro.gif?raw=true)
 
 <br />
 
-## [JAMstack Inverse](https://appseed.us/apps/jamstack/jamstack-inverse-pixelarity)
-
-**[Commercial License - Rocket Plan](https://appseed.us/pricing)** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-inverse.appseed.us/), [sources](https://github.com/app-generator/priv-jamstack-inverse)
+## [JAMstack Inverse](https://jamstack-inverse.appseed.us/)
 
 ![JAMstack Inverse - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-inverse-intro.gif?raw=true)
 
 <br />
 
-## [JAMstack Landscape](https://appseed.us/apps/jamstack/jamstack-landscape-pixelarity)
-
-**[Commercial License - Rocket Plan](https://appseed.us/pricing)** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-landscape.appseed.us/), [sources](https://github.com/app-generator/priv-jamstack-landscape)
+## [JAMstack Landscape](https://jamstack-landscape.appseed.us/)
 
 ![JAMstack Landscape - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-landscape-intro.gif?raw=true)
 
 <br />
 
-## [JAMstack Locus](https://appseed.us/apps/jamstack/jamstack-locus-pixelarity)
-
-**[Commercial License - Rocket Plan](https://appseed.us/pricing)** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-locus.appseed.us/), [sources](https://github.com/app-generator/priv-jamstack-locus)
+## [JAMstack Locus](https://jamstack-locus.appseed.us)
 
 ![JAMstack Locus - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-locus-intro.gif?raw=true)
 
 <br />
 
-## [JAMstack Prototype](https://appseed.us/apps/jamstack/jamstack-prototype-pixelarity)
-
-**[Commercial License - Rocket Plan](https://appseed.us/pricing)** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-prototype.appseed.us/), [sources](https://github.com/app-generator/priv-jamstack-prototype)
+## [JAMstack Prototype](https://jamstack-prototype.appseed.us)
 
 ![JAMstack Prototype - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-prototype-intro.gif?raw=true)
 
 <br />
 
-## [JAMstack Reflex](https://appseed.us/apps/jamstack/jamstack-reflex-pixelarity)
-
-**[Commercial License - Rocket Plan](https://appseed.us/pricing)** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-reflex.appseed.us/), [sources](https://github.com/app-generator/priv-jamstack-reflex)
+## [JAMstack Reflex](https://jamstack-reflex.appseed.us/)
 
 ![JAMstack Reflex - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-reflex-intro.gif?raw=true)
 
 <br />
 
-## [JAMstack - Relativity](https://appseed.us/apps/jamstack/jamstack-relativity-pixelarity)
-
-**[Commercial License - Rocket Plan](https://appseed.us/pricing)** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-relativity.appseed.us/), [sources](https://github.com/app-generator/priv-jamstack-relativity)
+## [JAMstack - Relativity](https://jamstack-relativity.appseed.us/)
 
 ![JAMstack Relativity - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-relativity-intro.gif?raw=true)
 
 <br />
 
-## [JAMstack Split-Screen](https://appseed.us/apps/jamstack/jamstack-split-screen-pixelarity)
-
-**[Commercial License - Rocket Plan](https://appseed.us/pricing)** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-split-screen.appseed.us/), [sources](https://github.com/app-generator/priv-jamstack-split-screen)
+## [JAMstack Split-Screen](https://jamstack-split-screen.appseed.us/)
 
 ![JAMstack Split-screen - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-split-screen-intro.gif?raw=true)
 
 <br />
 
-## [JAMstack Visualize](https://appseed.us/apps/jamstack/jamstack-visualize-pixelarity)
-
-**[Commercial License - Rocket Plan](https://appseed.us/pricing)** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-visualize.appseed.us/), [sources](https://github.com/app-generator/priv-jamstack-visualize)
+## [JAMstack Visualize](https://jamstack-visualize.appseed.us/)
 
 ![JAMstack Visualize - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-visualize-intro.gif?raw=true)
 
@@ -226,15 +186,11 @@ Open-source apps (free & commercial) generated in [JAMstack](https://jamstack.or
 
 ## [JAMstack Elemental](https://jamstack-elemental.appseed.us/)
 
-**[Commercial License - Rocket Plan](https://appseed.us/pricing)** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-elemental.appseed.us/), [sources](https://github.com/app-generator/priv-jamstack-elemental)
-
 ![JAMstack Elemental - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-elemental-intro.gif?raw=true)
 
 <br />
 
 ## [JAMstack Magnetic](https://jamstack-magnetic.appseed.us/)
-
-**[Commercial License - Rocket Plan](https://appseed.us/pricing)** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-magnetic.appseed.us/), [sources](https://github.com/app-generator/priv-jamstack-magnetic)
 
 ![JAMstack Magnetic - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-magnetic-intro.gif?raw=true)
 
@@ -242,23 +198,17 @@ Open-source apps (free & commercial) generated in [JAMstack](https://jamstack.or
 
 ## [JAMstack Atmosphere](https://jamstack-atmosphere.appseed.us/)
 
-**[Commercial License - Rocket Plan](https://appseed.us/pricing)** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-atmosphere.appseed.us/), [sources](https://github.com/app-generator/priv-jamstack-atmosphere)
-
 ![JAMstack Atmosphere - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-atmosphere-intro.gif?raw=true)
 
 <br />
 
 ## [JAMstack Standout](https://jamstack-standout.appseed.us/)
 
-**[Commercial License - Rocket Plan](https://appseed.us/pricing)** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-standout.appseed.us/), [sources](https://github.com/app-generator/priv-jamstack-standout)
-
 ![JAMstack Standout - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-standout-intro.gif?raw=true)
 
 <br />
 
-## [JAMstack Transit](https://jamstack-standout.appseed.us/)
-
-**[Commercial License - Rocket Plan](https://appseed.us/pricing)** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-transit.appseed.us/), [sources](https://github.com/app-generator/priv-jamstack-transit)
+## [JAMstack Transit](https://jamstack-transit.appseed.us/)
 
 ![JAMstack Transit - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-transit-intro.gif?raw=true)
 
@@ -266,15 +216,11 @@ Open-source apps (free & commercial) generated in [JAMstack](https://jamstack.or
 
 ## [JAMstack Paradigm](https://jamstack-paradigm.appseed.us/)
 
-**[Commercial License - Rocket Plan](https://appseed.us/pricing)** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-paradigm.appseed.us/), [sources](https://github.com/app-generator/priv-jamstack-paradigm)
-
 ![JAMstack Paradigm - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-paradigm-intro.gif?raw=true)
 
 <br />
 
 ## [JAMstack Hypothesis](https://jamstack-hypothesis.appseed.us/)
-
-**[Commercial License - Rocket Plan](https://appseed.us/pricing)** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-hypothesis.appseed.us/), [sources](https://github.com/app-generator/priv-jamstack-hypothesis)
 
 ![JAMstack Hypothesis - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-hypothesis-intro.gif?raw=true)
 
@@ -282,15 +228,11 @@ Open-source apps (free & commercial) generated in [JAMstack](https://jamstack.or
 
 ## [JAMstack Alpha](https://jamstack-alpha.appseed.us/)
 
-**[Commercial License - Rocket Plan](https://appseed.us/pricing)** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-alpha.appseed.us/), [sources](https://github.com/app-generator/priv-jamstack-alpha)
-
 ![JAMstack Alpha - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-alpha-intro.gif?raw=true)
 
 <br />
 
 ## [JAMstack Eventually](https://jamstack-eventually.appseed.us/)
-
-**[Commercial License - Rocket Plan](https://appseed.us/pricing)** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-eventually.appseed.us/), [sources](https://github.com/app-generator/priv-jamstack-eventually)
 
 ![JAMstack Eventually - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-eventually-intro.gif?raw=true)
 
@@ -298,15 +240,11 @@ Open-source apps (free & commercial) generated in [JAMstack](https://jamstack.or
 
 ## [JAMstack Exponent](https://jamstack-exponent.appseed.us/)
 
-**[Commercial License - Rocket Plan](https://appseed.us/pricing)** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-exponent.appseed.us/), [sources](https://github.com/app-generator/priv-jamstack-exponent)
-
 ![JAMstack Exponent - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-exponent-intro.gif?raw=true)
 
 <br />
 
 ## [JAMstack Telemetry](https://jamstack-telemetry.appseed.us/)
-
-**[Commercial License - Rocket Plan](https://appseed.us/pricing)** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-telemetry.appseed.us/), [sources](https://github.com/app-generator/priv-jamstack-telemetry)
 
 ![JAMstack Telemetry - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-telemetry-intro.gif?raw=true)
 
@@ -314,15 +252,11 @@ Open-source apps (free & commercial) generated in [JAMstack](https://jamstack.or
 
 ## [JAMstack Iconic](https://jamstack-iconic.appseed.us/)
 
-**[Commercial License - Rocket Plan](https://appseed.us/pricing)** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-iconic.appseed.us/), [sources](https://github.com/app-generator/priv-jamstack-iconic)
-
 ![JAMstack Iconic - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-iconic-intro.gif?raw=true)
 
 <br />
 
 ## [JAMstack Concentric](https://jamstack-concentric.appseed.us/)
-
-**[Commercial License - Rocket Plan](https://appseed.us/pricing)** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-concentric.appseed.us/), [sources](https://github.com/app-generator/priv-jamstack-concentric)
 
 ![JAMstack Concentric - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-concentric-intro.gif?raw=true)
 
@@ -330,23 +264,17 @@ Open-source apps (free & commercial) generated in [JAMstack](https://jamstack.or
 
 ## [JAMstack Ethereal](https://jamstack-concentric.appseed.us/)
 
-**[Commercial License - Rocket Plan](https://appseed.us/pricing)** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-ethereal.appseed.us/), [sources](https://github.com/app-generator/priv-jamstack-ethereal)
-
 ![JAMstack Ethereal - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-ethereal-intro.gif?raw=true)
 
 <br />
 
 ## [JAMstack Multiverse](https://jamstack-multiverse.appseed.us/)
 
-**[Commercial License - Rocket Plan](https://appseed.us/pricing)** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-multiverse.appseed.us/), [sources](https://github.com/app-generator/priv-jamstack-multiverse)
-
 ![JAMstack Multiverse - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-multiverse-intro.gif?raw=true)
 
 <br />
 
 ## [JAMstack Parallelism](https://jamstack-parallelism.appseed.us/)
-
-**[Commercial License - Rocket Plan](https://appseed.us/pricing)** - Open Source app built in **JAMstack** pattern: [demo](https://jamstack-parallelism.appseed.us/), [sources](https://github.com/app-generator/priv-jamstack-parallelism)
 
 ![JAMstack Parallelism - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-parallelism-intro.gif?raw=true)
 
