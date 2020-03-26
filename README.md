@@ -4,6 +4,10 @@ Open-source apps (free & commercial) generated in [JAMstack](https://jamstack.or
 
 <br />
 
+> Enjoy this project? **Join our efforts** to actively support the open-source ecosystem via a **[PayPal.me donation](https://paypal.me/appseed)**. Thank you!
+
+<br />
+
 ## What is [JAMstack](https://jamstack.org/)
 
 **JAMstack** stands for JavaScript, APIs, and Markup. The term was coined by Mathias Biilmann to describe a modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup. The **JAMstack** approach can also improve your app's security posture since static sites generally have a small attack vector.
