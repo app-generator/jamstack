@@ -1,6 +1,6 @@
 # [JAMstack Apps](https://appseed.us/apps/jamstack) 
 
-Open-source apps (free & commercial) generated in [JAMstack](https://jamstack.org/) pattern by **AppSeed**
+Open-source apps (free & commercial) generated in [JAMstack](https://jamstack.org/) pattern - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
 
 <br />
 
